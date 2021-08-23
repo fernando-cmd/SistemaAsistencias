@@ -1,0 +1,10 @@
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\bin\Debug\SistemaAsistencias.exe.config
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\bin\Debug\SistemaAsistencias.exe
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\bin\Debug\SistemaAsistencias.pdb
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.Presentación.MenuPrincipal.resources
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.Properties.Resources.resources
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.exe
+C:\Users\ferna\Desktop\SistemaAsistencias\SistemaAsistencias\obj\Debug\SistemaAsistencias.pdb
